@@ -1,0 +1,501 @@
+Ticket ID,Created Time,Resolved Time,Priority,Category,Department,Description
+TCKT00001,2023-02-18 16:00:00,2023-02-21 07:00:00,Low,Software,Support,System crash during deployment
+TCKT00002,2023-01-08 10:00:00,2023-01-10 06:00:00,High,Software,IT,Requesting new mouse and keyboard
+TCKT00003,2023-03-20 11:00:00,2023-03-21 22:00:00,High,Network,Support,System crash during deployment
+TCKT00004,2023-01-06 08:00:00,2023-01-07 20:00:00,High,Software,Support,Bug found in internal app
+TCKT00005,2023-01-25 21:00:00,2023-01-28 06:00:00,High,Hardware,HR,System crash during deployment
+TCKT00006,2023-02-28 08:00:00,2023-03-02 08:00:00,Medium,Bug Report,Engineering,Laptop running slow
+TCKT00007,2023-02-05 21:00:00,2023-02-07 07:00:00,Urgent,Network,Finance,Forgot Windows password
+TCKT00008,2023-01-11 10:00:00,2023-01-12 00:00:00,Urgent,Software,Engineering,Requesting new mouse and keyboard
+TCKT00009,2023-02-24 23:00:00,2023-02-26 18:00:00,Medium,Access Request,Support,Outlook not sending emails
+TCKT00010,2023-03-22 10:00:00,2023-03-24 11:00:00,Medium,Network,Support,Bug found in internal app
+TCKT00011,2023-01-29 02:00:00,2023-01-29 05:00:00,Low,Access Request,Finance,WiFi is unstable in the office
+TCKT00012,2023-02-01 14:00:00,2023-02-03 13:00:00,Urgent,Access Request,Support,Bug found in internal app
+TCKT00013,2023-02-17 09:00:00,2023-02-20 09:00:00,Low,Bug Report,Finance,Forgot Windows password
+TCKT00014,2023-02-02 15:00:00,2023-02-03 00:00:00,Urgent,Hardware,Support,Forgot Windows password
+TCKT00015,2023-01-09 06:00:00,2023-01-10 16:00:00,High,Access Request,Finance,Need access to Jira
+TCKT00016,2023-01-24 20:00:00,2023-01-27 03:00:00,Urgent,Bug Report,IT,WiFi is unstable in the office
+TCKT00017,2023-03-04 06:00:00,2023-03-06 16:00:00,Low,Hardware,IT,Outlook not sending emails
+TCKT00018,2023-01-03 00:00:00,2023-01-04 02:00:00,Medium,Software,Finance,Requesting new mouse and keyboard
+TCKT00019,2023-03-23 12:00:00,2023-03-25 09:00:00,Medium,Software,HR,Need access to Jira
+TCKT00020,2023-02-01 13:00:00,2023-02-02 20:00:00,Urgent,Access Request,Finance,Bug found in internal app
+TCKT00021,2023-01-05 03:00:00,2023-01-05 14:00:00,High,Hardware,HR,Laptop not booting up
+TCKT00022,2023-01-23 18:00:00,2023-01-26 14:00:00,Urgent,Access Request,IT,Cannot connect to VPN
+TCKT00023,2023-03-18 09:00:00,2023-03-19 09:00:00,Medium,Network,Finance,Bug found in internal app
+TCKT00024,2023-01-03 00:00:00,2023-01-04 15:00:00,Medium,Hardware,Support,Need access to Jira
+TCKT00025,2023-03-12 11:00:00,2023-03-12 14:00:00,High,Network,Support,Requesting new mouse and keyboard
+TCKT00026,2023-02-27 17:00:00,2023-03-01 09:00:00,High,Network,IT,Need access to Jira
+TCKT00027,2023-01-16 12:00:00,2023-01-18 21:00:00,Medium,Software,Engineering,Requesting new mouse and keyboard
+TCKT00028,2023-02-10 18:00:00,2023-02-11 10:00:00,High,Hardware,Support,Requesting new mouse and keyboard
+TCKT00029,2023-02-23 20:00:00,2023-02-25 00:00:00,Low,Network,Engineering,Laptop not booting up
+TCKT00030,2023-02-08 20:00:00,2023-02-10 09:00:00,Low,Bug Report,Finance,Laptop not booting up
+TCKT00031,2023-03-05 16:00:00,2023-03-08 00:00:00,Medium,Hardware,Engineering,System crash during deployment
+TCKT00032,2023-02-19 20:00:00,2023-02-22 15:00:00,Low,Access Request,Support,Forgot Windows password
+TCKT00033,2023-02-19 02:00:00,2023-02-22 01:00:00,High,Bug Report,Finance,Need access to Jira
+TCKT00034,2023-01-15 06:00:00,2023-01-15 07:00:00,Low,Software,HR,Outlook not sending emails
+TCKT00035,2023-01-23 17:00:00,2023-01-25 22:00:00,High,Access Request,Engineering,WiFi is unstable in the office
+TCKT00036,2023-02-11 23:00:00,2023-02-14 23:00:00,Low,Bug Report,IT,Cannot connect to VPN
+TCKT00037,2023-02-18 09:00:00,2023-02-20 15:00:00,Low,Bug Report,IT,Bug found in internal app
+TCKT00038,2023-02-27 14:00:00,2023-03-01 08:00:00,Low,Hardware,Support,Bug found in internal app
+TCKT00039,2023-02-09 19:00:00,2023-02-11 05:00:00,High,Hardware,Engineering,Laptop not booting up
+TCKT00040,2023-02-18 20:00:00,2023-02-19 02:00:00,Medium,Access Request,IT,Bug found in internal app
+TCKT00041,2023-01-10 12:00:00,2023-01-11 00:00:00,Urgent,Hardware,Engineering,Laptop not booting up
+TCKT00042,2023-01-15 01:00:00,2023-01-15 05:00:00,High,Hardware,HR,Laptop running slow
+TCKT00043,2023-03-19 14:00:00,2023-03-19 18:00:00,High,Bug Report,HR,WiFi is unstable in the office
+TCKT00044,2023-02-06 01:00:00,2023-02-07 13:00:00,Urgent,Hardware,IT,Bug found in internal app
+TCKT00045,2023-01-23 02:00:00,2023-01-24 15:00:00,Urgent,Network,Engineering,WiFi is unstable in the office
+TCKT00046,2023-03-03 04:00:00,2023-03-05 03:00:00,Urgent,Software,HR,Outlook not sending emails
+TCKT00047,2023-02-22 09:00:00,2023-02-24 09:00:00,Urgent,Bug Report,Engineering,Bug found in internal app
+TCKT00048,2023-02-28 12:00:00,2023-03-01 02:00:00,Urgent,Network,Support,Requesting new mouse and keyboard
+TCKT00049,2023-01-31 12:00:00,2023-01-31 15:00:00,Low,Bug Report,HR,Requesting new mouse and keyboard
+TCKT00050,2023-01-09 13:00:00,2023-01-10 18:00:00,High,Hardware,HR,Cannot connect to VPN
+TCKT00051,2023-01-23 22:00:00,2023-01-24 14:00:00,High,Access Request,Finance,Laptop not booting up
+TCKT00052,2023-02-01 19:00:00,2023-02-04 15:00:00,High,Access Request,IT,WiFi is unstable in the office
+TCKT00053,2023-03-22 06:00:00,2023-03-24 14:00:00,Low,Hardware,Engineering,System crash during deployment
+TCKT00054,2023-01-13 23:00:00,2023-01-15 08:00:00,Medium,Software,Support,Outlook not sending emails
+TCKT00055,2023-03-14 12:00:00,2023-03-15 17:00:00,Low,Software,Support,WiFi is unstable in the office
+TCKT00056,2023-02-01 09:00:00,2023-02-01 19:00:00,Medium,Network,Support,Outlook not sending emails
+TCKT00057,2023-03-07 12:00:00,2023-03-08 08:00:00,High,Hardware,Finance,System crash during deployment
+TCKT00058,2023-02-08 17:00:00,2023-02-10 19:00:00,Urgent,Network,Support,Need access to Jira
+TCKT00059,2023-02-06 21:00:00,2023-02-09 07:00:00,High,Software,Engineering,Laptop not booting up
+TCKT00060,2023-01-18 11:00:00,2023-01-20 09:00:00,Low,Bug Report,HR,WiFi is unstable in the office
+TCKT00061,2023-03-11 05:00:00,2023-03-12 16:00:00,Medium,Software,Finance,Forgot Windows password
+TCKT00062,2023-03-01 07:00:00,2023-03-01 16:00:00,Medium,Access Request,Finance,Need access to Jira
+TCKT00063,2023-02-20 11:00:00,2023-02-20 17:00:00,Urgent,Software,IT,Need access to Jira
+TCKT00064,2023-01-05 18:00:00,2023-01-08 04:00:00,Medium,Hardware,Engineering,Outlook not sending emails
+TCKT00065,2023-01-08 08:00:00,2023-01-10 12:00:00,Low,Access Request,IT,System crash during deployment
+TCKT00066,2023-01-29 17:00:00,2023-01-31 13:00:00,High,Bug Report,Finance,Bug found in internal app
+TCKT00067,2023-03-16 16:00:00,2023-03-16 20:00:00,Medium,Access Request,Engineering,Bug found in internal app
+TCKT00068,2023-03-09 17:00:00,2023-03-11 23:00:00,Urgent,Network,HR,Laptop not booting up
+TCKT00069,2023-01-25 12:00:00,2023-01-27 17:00:00,Low,Hardware,Engineering,Laptop running slow
+TCKT00070,2023-01-25 12:00:00,2023-01-25 18:00:00,High,Hardware,Engineering,Laptop not booting up
+TCKT00071,2023-01-25 16:00:00,2023-01-28 06:00:00,High,Software,HR,Requesting new mouse and keyboard
+TCKT00072,2023-03-09 10:00:00,2023-03-10 21:00:00,Urgent,Network,Support,System crash during deployment
+TCKT00073,2023-01-19 11:00:00,2023-01-21 14:00:00,Medium,Access Request,Support,WiFi is unstable in the office
+TCKT00074,2023-03-08 18:00:00,2023-03-11 07:00:00,Low,Bug Report,IT,Need access to Jira
+TCKT00075,2023-02-10 23:00:00,2023-02-12 07:00:00,Urgent,Access Request,IT,Laptop not booting up
+TCKT00076,2023-02-03 17:00:00,2023-02-05 19:00:00,Urgent,Bug Report,Engineering,Bug found in internal app
+TCKT00077,2023-02-24 03:00:00,2023-02-25 19:00:00,High,Software,IT,Outlook not sending emails
+TCKT00078,2023-03-18 04:00:00,2023-03-20 11:00:00,Medium,Bug Report,Engineering,Laptop not booting up
+TCKT00079,2023-02-23 08:00:00,2023-02-25 23:00:00,Medium,Access Request,Support,Forgot Windows password
+TCKT00080,2023-01-02 06:00:00,2023-01-03 09:00:00,Low,Bug Report,IT,Cannot connect to VPN
+TCKT00081,2023-02-05 07:00:00,2023-02-06 15:00:00,High,Network,HR,Bug found in internal app
+TCKT00082,2023-03-09 13:00:00,2023-03-10 23:00:00,High,Network,IT,Laptop not booting up
+TCKT00083,2023-02-26 17:00:00,2023-02-27 09:00:00,Low,Access Request,HR,Cannot connect to VPN
+TCKT00084,2023-02-26 07:00:00,2023-02-28 00:00:00,Low,Bug Report,Engineering,WiFi is unstable in the office
+TCKT00085,2023-01-26 17:00:00,2023-01-29 01:00:00,High,Network,Finance,Cannot connect to VPN
+TCKT00086,2023-02-25 09:00:00,2023-02-27 07:00:00,Medium,Hardware,IT,Bug found in internal app
+TCKT00087,2023-02-03 01:00:00,2023-02-04 08:00:00,Urgent,Hardware,IT,WiFi is unstable in the office
+TCKT00088,2023-01-28 09:00:00,2023-01-31 05:00:00,Low,Access Request,Support,Requesting new mouse and keyboard
+TCKT00089,2023-01-14 19:00:00,2023-01-15 20:00:00,High,Hardware,Support,WiFi is unstable in the office
+TCKT00090,2023-01-27 17:00:00,2023-01-29 17:00:00,Low,Bug Report,Finance,Need access to Jira
+TCKT00091,2023-03-09 10:00:00,2023-03-09 21:00:00,Medium,Software,Finance,Forgot Windows password
+TCKT00092,2023-01-18 05:00:00,2023-01-20 14:00:00,Medium,Network,Engineering,System crash during deployment
+TCKT00093,2023-03-01 18:00:00,2023-03-03 18:00:00,Low,Hardware,IT,Requesting new mouse and keyboard
+TCKT00094,2023-01-06 13:00:00,2023-01-08 20:00:00,Low,Access Request,HR,Requesting new mouse and keyboard
+TCKT00095,2023-02-19 21:00:00,2023-02-22 17:00:00,Medium,Software,Engineering,Bug found in internal app
+TCKT00096,2023-03-02 14:00:00,2023-03-04 22:00:00,Medium,Software,HR,Outlook not sending emails
+TCKT00097,2023-03-04 03:00:00,2023-03-05 03:00:00,Medium,Access Request,IT,WiFi is unstable in the office
+TCKT00098,2023-01-02 22:00:00,2023-01-04 18:00:00,Low,Software,IT,Requesting new mouse and keyboard
+TCKT00099,2023-01-27 00:00:00,2023-01-29 15:00:00,High,Network,Finance,WiFi is unstable in the office
+TCKT00100,2023-03-03 15:00:00,2023-03-03 23:00:00,Low,Hardware,IT,System crash during deployment
+TCKT00101,2023-01-10 05:00:00,2023-01-10 22:00:00,Urgent,Bug Report,HR,Need access to Jira
+TCKT00102,2023-02-21 06:00:00,2023-02-24 04:00:00,Medium,Network,HR,WiFi is unstable in the office
+TCKT00103,2023-03-14 21:00:00,2023-03-16 09:00:00,High,Bug Report,Support,System crash during deployment
+TCKT00104,2023-01-04 02:00:00,2023-01-06 03:00:00,Medium,Bug Report,Support,Need access to Jira
+TCKT00105,2023-01-09 17:00:00,2023-01-10 12:00:00,Medium,Network,Finance,Requesting new mouse and keyboard
+TCKT00106,2023-03-05 23:00:00,2023-03-06 02:00:00,High,Software,Finance,Laptop not booting up
+TCKT00107,2023-03-22 08:00:00,2023-03-23 03:00:00,Low,Hardware,HR,WiFi is unstable in the office
+TCKT00108,2023-02-22 16:00:00,2023-02-25 02:00:00,Low,Network,Finance,Outlook not sending emails
+TCKT00109,2023-01-31 21:00:00,2023-02-03 04:00:00,High,Hardware,Engineering,Requesting new mouse and keyboard
+TCKT00110,2023-02-10 19:00:00,2023-02-12 11:00:00,High,Hardware,Finance,Bug found in internal app
+TCKT00111,2023-01-28 10:00:00,2023-01-31 03:00:00,Medium,Hardware,Engineering,Forgot Windows password
+TCKT00112,2023-03-10 20:00:00,2023-03-10 23:00:00,High,Bug Report,Finance,Bug found in internal app
+TCKT00113,2023-01-04 06:00:00,2023-01-07 06:00:00,Medium,Bug Report,IT,Outlook not sending emails
+TCKT00114,2023-02-20 11:00:00,2023-02-20 14:00:00,Medium,Software,Finance,Bug found in internal app
+TCKT00115,2023-01-01 22:00:00,2023-01-04 08:00:00,High,Bug Report,Support,Laptop not booting up
+TCKT00116,2023-03-08 09:00:00,2023-03-09 06:00:00,Urgent,Software,Finance,Outlook not sending emails
+TCKT00117,2023-03-07 00:00:00,2023-03-09 01:00:00,High,Access Request,HR,Forgot Windows password
+TCKT00118,2023-01-03 22:00:00,2023-01-04 21:00:00,Medium,Bug Report,Finance,Bug found in internal app
+TCKT00119,2023-02-23 10:00:00,2023-02-24 19:00:00,Urgent,Access Request,Finance,WiFi is unstable in the office
+TCKT00120,2023-01-06 11:00:00,2023-01-08 15:00:00,Low,Network,Support,Forgot Windows password
+TCKT00121,2023-01-14 11:00:00,2023-01-15 02:00:00,High,Network,Support,Cannot connect to VPN
+TCKT00122,2023-03-16 16:00:00,2023-03-17 03:00:00,Low,Bug Report,Engineering,Cannot connect to VPN
+TCKT00123,2023-01-15 07:00:00,2023-01-16 19:00:00,High,Software,Finance,Outlook not sending emails
+TCKT00124,2023-01-22 05:00:00,2023-01-24 14:00:00,Medium,Access Request,Engineering,WiFi is unstable in the office
+TCKT00125,2023-03-22 22:00:00,2023-03-24 19:00:00,Low,Access Request,IT,Requesting new mouse and keyboard
+TCKT00126,2023-01-06 07:00:00,2023-01-08 06:00:00,Low,Access Request,HR,Need access to Jira
+TCKT00127,2023-03-06 13:00:00,2023-03-06 17:00:00,Medium,Software,IT,Outlook not sending emails
+TCKT00128,2023-02-13 21:00:00,2023-02-15 15:00:00,Urgent,Network,Finance,Bug found in internal app
+TCKT00129,2023-02-09 02:00:00,2023-02-10 02:00:00,Low,Hardware,HR,System crash during deployment
+TCKT00130,2023-01-15 13:00:00,2023-01-18 13:00:00,High,Software,IT,Need access to Jira
+TCKT00131,2023-01-09 21:00:00,2023-01-11 08:00:00,Urgent,Hardware,IT,Bug found in internal app
+TCKT00132,2023-03-24 15:00:00,2023-03-27 03:00:00,Low,Software,Finance,Bug found in internal app
+TCKT00133,2023-02-09 16:00:00,2023-02-11 14:00:00,Low,Network,Finance,Need access to Jira
+TCKT00134,2023-02-02 11:00:00,2023-02-02 14:00:00,Medium,Bug Report,Finance,Cannot connect to VPN
+TCKT00135,2023-03-10 03:00:00,2023-03-11 19:00:00,Urgent,Hardware,IT,Laptop running slow
+TCKT00136,2023-01-10 22:00:00,2023-01-12 19:00:00,High,Network,Finance,Forgot Windows password
+TCKT00137,2023-03-06 03:00:00,2023-03-06 15:00:00,Urgent,Network,HR,WiFi is unstable in the office
+TCKT00138,2023-02-19 00:00:00,2023-02-21 17:00:00,Medium,Bug Report,IT,Need access to Jira
+TCKT00139,2023-03-24 00:00:00,2023-03-25 07:00:00,Urgent,Software,IT,System crash during deployment
+TCKT00140,2023-02-05 04:00:00,2023-02-07 00:00:00,Urgent,Network,Finance,WiFi is unstable in the office
+TCKT00141,2023-01-19 17:00:00,2023-01-20 12:00:00,Medium,Software,Engineering,Forgot Windows password
+TCKT00142,2023-02-26 11:00:00,2023-02-28 14:00:00,Medium,Hardware,HR,Requesting new mouse and keyboard
+TCKT00143,2023-02-12 06:00:00,2023-02-12 17:00:00,High,Network,HR,Requesting new mouse and keyboard
+TCKT00144,2023-01-26 15:00:00,2023-01-27 18:00:00,Low,Access Request,Support,Outlook not sending emails
+TCKT00145,2023-02-03 13:00:00,2023-02-04 15:00:00,Medium,Software,Finance,Forgot Windows password
+TCKT00146,2023-02-20 23:00:00,2023-02-21 19:00:00,High,Access Request,IT,Forgot Windows password
+TCKT00147,2023-01-25 11:00:00,2023-01-26 08:00:00,High,Software,HR,Outlook not sending emails
+TCKT00148,2023-01-19 07:00:00,2023-01-21 12:00:00,High,Software,Engineering,Need access to Jira
+TCKT00149,2023-01-03 14:00:00,2023-01-05 18:00:00,Urgent,Network,HR,Requesting new mouse and keyboard
+TCKT00150,2023-02-17 09:00:00,2023-02-19 09:00:00,Low,Software,Support,Laptop running slow
+TCKT00151,2023-02-20 06:00:00,2023-02-21 19:00:00,Low,Network,Support,Laptop not booting up
+TCKT00152,2023-03-07 03:00:00,2023-03-08 11:00:00,Urgent,Hardware,HR,System crash during deployment
+TCKT00153,2023-01-07 21:00:00,2023-01-09 09:00:00,Low,Network,Engineering,Forgot Windows password
+TCKT00154,2023-03-01 19:00:00,2023-03-03 11:00:00,High,Hardware,HR,Outlook not sending emails
+TCKT00155,2023-01-10 17:00:00,2023-01-12 18:00:00,High,Bug Report,Engineering,Outlook not sending emails
+TCKT00156,2023-01-21 20:00:00,2023-01-23 03:00:00,Urgent,Network,HR,WiFi is unstable in the office
+TCKT00157,2023-03-10 06:00:00,2023-03-12 05:00:00,Urgent,Bug Report,IT,System crash during deployment
+TCKT00158,2023-03-04 23:00:00,2023-03-06 16:00:00,Low,Network,HR,Need access to Jira
+TCKT00159,2023-02-06 21:00:00,2023-02-07 04:00:00,Medium,Software,HR,Forgot Windows password
+TCKT00160,2023-03-06 15:00:00,2023-03-06 18:00:00,Low,Bug Report,HR,Laptop not booting up
+TCKT00161,2023-03-03 16:00:00,2023-03-04 19:00:00,Urgent,Bug Report,Engineering,Laptop running slow
+TCKT00162,2023-03-04 00:00:00,2023-03-04 10:00:00,Medium,Software,Support,WiFi is unstable in the office
+TCKT00163,2023-03-02 08:00:00,2023-03-02 21:00:00,High,Hardware,IT,Cannot connect to VPN
+TCKT00164,2023-02-28 23:00:00,2023-03-02 05:00:00,Urgent,Access Request,HR,Outlook not sending emails
+TCKT00165,2023-02-20 05:00:00,2023-02-22 17:00:00,High,Software,HR,Cannot connect to VPN
+TCKT00166,2023-03-10 05:00:00,2023-03-11 18:00:00,Low,Access Request,Support,Need access to Jira
+TCKT00167,2023-03-14 19:00:00,2023-03-17 06:00:00,Medium,Hardware,Engineering,Bug found in internal app
+TCKT00168,2023-03-21 23:00:00,2023-03-22 18:00:00,Low,Hardware,IT,Laptop not booting up
+TCKT00169,2023-02-09 23:00:00,2023-02-12 14:00:00,High,Bug Report,HR,Requesting new mouse and keyboard
+TCKT00170,2023-03-11 00:00:00,2023-03-11 06:00:00,Low,Bug Report,Support,Laptop not booting up
+TCKT00171,2023-03-10 06:00:00,2023-03-11 05:00:00,Medium,Bug Report,Finance,Outlook not sending emails
+TCKT00172,2023-02-25 08:00:00,2023-02-27 14:00:00,Low,Access Request,IT,Outlook not sending emails
+TCKT00173,2023-01-28 14:00:00,2023-01-29 01:00:00,Medium,Hardware,IT,System crash during deployment
+TCKT00174,2023-02-07 07:00:00,2023-02-07 08:00:00,Low,Bug Report,Engineering,System crash during deployment
+TCKT00175,2023-02-19 00:00:00,2023-02-21 22:00:00,High,Access Request,Support,Laptop running slow
+TCKT00176,2023-03-03 14:00:00,2023-03-04 23:00:00,Medium,Bug Report,Support,Laptop running slow
+TCKT00177,2023-02-07 17:00:00,2023-02-08 20:00:00,Medium,Hardware,IT,System crash during deployment
+TCKT00178,2023-02-04 07:00:00,2023-02-04 15:00:00,Medium,Hardware,IT,Outlook not sending emails
+TCKT00179,2023-02-01 17:00:00,2023-02-02 16:00:00,Medium,Network,Engineering,Laptop not booting up
+TCKT00180,2023-02-22 07:00:00,2023-02-24 12:00:00,Medium,Access Request,Support,System crash during deployment
+TCKT00181,2023-01-03 15:00:00,2023-01-05 15:00:00,Urgent,Access Request,HR,System crash during deployment
+TCKT00182,2023-01-17 15:00:00,2023-01-20 03:00:00,High,Hardware,HR,WiFi is unstable in the office
+TCKT00183,2023-02-26 15:00:00,2023-02-27 12:00:00,Low,Network,Finance,Requesting new mouse and keyboard
+TCKT00184,2023-03-04 23:00:00,2023-03-06 09:00:00,Low,Network,Finance,Forgot Windows password
+TCKT00185,2023-01-11 05:00:00,2023-01-11 08:00:00,Low,Access Request,IT,Cannot connect to VPN
+TCKT00186,2023-02-18 08:00:00,2023-02-19 18:00:00,Medium,Network,Engineering,System crash during deployment
+TCKT00187,2023-01-13 02:00:00,2023-01-13 09:00:00,Low,Access Request,Finance,Requesting new mouse and keyboard
+TCKT00188,2023-02-10 02:00:00,2023-02-11 16:00:00,Urgent,Network,Support,Forgot Windows password
+TCKT00189,2023-03-07 05:00:00,2023-03-10 03:00:00,High,Access Request,Engineering,Requesting new mouse and keyboard
+TCKT00190,2023-03-07 01:00:00,2023-03-08 18:00:00,Urgent,Hardware,IT,Laptop not booting up
+TCKT00191,2023-02-08 23:00:00,2023-02-10 16:00:00,Urgent,Network,HR,Laptop not booting up
+TCKT00192,2023-03-12 05:00:00,2023-03-14 06:00:00,Medium,Software,Support,Bug found in internal app
+TCKT00193,2023-03-15 19:00:00,2023-03-16 19:00:00,High,Access Request,Engineering,System crash during deployment
+TCKT00194,2023-02-28 06:00:00,2023-03-01 22:00:00,Urgent,Access Request,IT,Need access to Jira
+TCKT00195,2023-03-17 07:00:00,2023-03-19 11:00:00,High,Network,Support,Laptop not booting up
+TCKT00196,2023-02-27 16:00:00,2023-02-28 06:00:00,Urgent,Hardware,Finance,Bug found in internal app
+TCKT00197,2023-02-03 13:00:00,2023-02-05 16:00:00,Medium,Access Request,IT,Need access to Jira
+TCKT00198,2023-01-06 07:00:00,2023-01-08 21:00:00,Low,Software,Support,System crash during deployment
+TCKT00199,2023-03-01 23:00:00,2023-03-03 10:00:00,Low,Bug Report,Support,Cannot connect to VPN
+TCKT00200,2023-01-12 07:00:00,2023-01-12 13:00:00,High,Network,HR,Outlook not sending emails
+TCKT00201,2023-01-12 05:00:00,2023-01-12 16:00:00,High,Bug Report,IT,Laptop not booting up
+TCKT00202,2023-02-03 07:00:00,2023-02-05 05:00:00,Low,Bug Report,Finance,Laptop running slow
+TCKT00203,2023-02-22 03:00:00,2023-02-23 02:00:00,Urgent,Hardware,Finance,System crash during deployment
+TCKT00204,2023-01-29 09:00:00,2023-01-29 17:00:00,High,Software,Support,WiFi is unstable in the office
+TCKT00205,2023-02-04 13:00:00,2023-02-06 20:00:00,Low,Access Request,IT,Laptop running slow
+TCKT00206,2023-01-05 19:00:00,2023-01-07 07:00:00,Medium,Network,Engineering,Cannot connect to VPN
+TCKT00207,2023-01-14 11:00:00,2023-01-15 22:00:00,Medium,Network,IT,Need access to Jira
+TCKT00208,2023-02-22 18:00:00,2023-02-25 12:00:00,Low,Network,HR,Forgot Windows password
+TCKT00209,2023-02-02 23:00:00,2023-02-04 23:00:00,Low,Hardware,Support,Forgot Windows password
+TCKT00210,2023-03-23 06:00:00,2023-03-26 00:00:00,Urgent,Hardware,IT,Need access to Jira
+TCKT00211,2023-01-08 22:00:00,2023-01-11 03:00:00,High,Access Request,Finance,Requesting new mouse and keyboard
+TCKT00212,2023-01-21 17:00:00,2023-01-23 12:00:00,High,Software,HR,Outlook not sending emails
+TCKT00213,2023-03-14 07:00:00,2023-03-15 08:00:00,Medium,Access Request,Support,Laptop not booting up
+TCKT00214,2023-01-01 08:00:00,2023-01-01 10:00:00,High,Access Request,IT,Requesting new mouse and keyboard
+TCKT00215,2023-01-12 17:00:00,2023-01-15 07:00:00,Medium,Network,Engineering,Laptop not booting up
+TCKT00216,2023-02-06 01:00:00,2023-02-08 07:00:00,Urgent,Network,Support,WiFi is unstable in the office
+TCKT00217,2023-03-04 11:00:00,2023-03-06 12:00:00,Medium,Bug Report,HR,Laptop not booting up
+TCKT00218,2023-03-21 10:00:00,2023-03-23 07:00:00,Low,Access Request,Engineering,Laptop not booting up
+TCKT00219,2023-03-04 16:00:00,2023-03-05 17:00:00,Urgent,Access Request,Finance,Requesting new mouse and keyboard
+TCKT00220,2023-02-07 09:00:00,2023-02-09 12:00:00,High,Software,Engineering,Bug found in internal app
+TCKT00221,2023-01-22 23:00:00,2023-01-25 01:00:00,Medium,Bug Report,Support,Outlook not sending emails
+TCKT00222,2023-02-12 05:00:00,2023-02-14 19:00:00,Low,Bug Report,Finance,Laptop not booting up
+TCKT00223,2023-01-15 10:00:00,2023-01-17 02:00:00,Urgent,Access Request,Engineering,Requesting new mouse and keyboard
+TCKT00224,2023-01-17 07:00:00,2023-01-17 23:00:00,Urgent,Software,IT,WiFi is unstable in the office
+TCKT00225,2023-02-04 06:00:00,2023-02-07 06:00:00,High,Access Request,HR,Need access to Jira
+TCKT00226,2023-01-09 13:00:00,2023-01-11 06:00:00,Urgent,Network,IT,WiFi is unstable in the office
+TCKT00227,2023-03-14 23:00:00,2023-03-15 07:00:00,Low,Bug Report,Engineering,Outlook not sending emails
+TCKT00228,2023-03-04 09:00:00,2023-03-06 02:00:00,Low,Access Request,IT,Need access to Jira
+TCKT00229,2023-02-08 23:00:00,2023-02-11 22:00:00,High,Hardware,HR,Outlook not sending emails
+TCKT00230,2023-03-06 17:00:00,2023-03-07 10:00:00,Medium,Hardware,Engineering,Need access to Jira
+TCKT00231,2023-02-21 14:00:00,2023-02-22 14:00:00,Medium,Hardware,Finance,Laptop not booting up
+TCKT00232,2023-03-06 07:00:00,2023-03-07 02:00:00,High,Bug Report,HR,Laptop running slow
+TCKT00233,2023-01-18 21:00:00,2023-01-20 19:00:00,Urgent,Hardware,HR,Need access to Jira
+TCKT00234,2023-03-11 01:00:00,2023-03-11 08:00:00,Medium,Bug Report,Support,System crash during deployment
+TCKT00235,2023-01-30 00:00:00,2023-02-01 23:00:00,Low,Bug Report,Engineering,Outlook not sending emails
+TCKT00236,2023-02-19 23:00:00,2023-02-21 15:00:00,Urgent,Hardware,HR,Need access to Jira
+TCKT00237,2023-02-14 08:00:00,2023-02-17 04:00:00,Urgent,Bug Report,HR,Bug found in internal app
+TCKT00238,2023-02-24 10:00:00,2023-02-24 22:00:00,High,Bug Report,Finance,Outlook not sending emails
+TCKT00239,2023-01-11 11:00:00,2023-01-13 11:00:00,High,Access Request,Support,System crash during deployment
+TCKT00240,2023-02-05 11:00:00,2023-02-08 02:00:00,Urgent,Bug Report,HR,Outlook not sending emails
+TCKT00241,2023-03-21 12:00:00,2023-03-23 00:00:00,High,Access Request,Engineering,Laptop running slow
+TCKT00242,2023-02-21 02:00:00,2023-02-22 22:00:00,High,Bug Report,Engineering,System crash during deployment
+TCKT00243,2023-01-08 10:00:00,2023-01-08 11:00:00,Low,Bug Report,Engineering,Need access to Jira
+TCKT00244,2023-03-17 16:00:00,2023-03-19 07:00:00,High,Network,Finance,Laptop not booting up
+TCKT00245,2023-02-26 04:00:00,2023-02-26 23:00:00,Low,Hardware,Engineering,Laptop not booting up
+TCKT00246,2023-01-29 03:00:00,2023-01-31 04:00:00,High,Network,Engineering,System crash during deployment
+TCKT00247,2023-02-02 08:00:00,2023-02-04 10:00:00,Urgent,Network,IT,Laptop running slow
+TCKT00248,2023-02-04 11:00:00,2023-02-06 00:00:00,Medium,Software,Finance,Bug found in internal app
+TCKT00249,2023-01-23 11:00:00,2023-01-25 12:00:00,Urgent,Hardware,IT,Laptop not booting up
+TCKT00250,2023-02-04 03:00:00,2023-02-04 14:00:00,Low,Bug Report,Finance,Laptop running slow
+TCKT00251,2023-03-09 01:00:00,2023-03-09 18:00:00,Medium,Network,HR,WiFi is unstable in the office
+TCKT00252,2023-02-19 18:00:00,2023-02-20 07:00:00,Low,Network,HR,WiFi is unstable in the office
+TCKT00253,2023-01-08 01:00:00,2023-01-08 17:00:00,Low,Software,HR,System crash during deployment
+TCKT00254,2023-02-02 15:00:00,2023-02-05 11:00:00,Urgent,Bug Report,Support,Cannot connect to VPN
+TCKT00255,2023-03-15 01:00:00,2023-03-15 10:00:00,Medium,Bug Report,HR,Need access to Jira
+TCKT00256,2023-03-19 02:00:00,2023-03-19 06:00:00,High,Software,Support,Requesting new mouse and keyboard
+TCKT00257,2023-01-14 06:00:00,2023-01-16 05:00:00,Urgent,Hardware,Finance,Bug found in internal app
+TCKT00258,2023-01-09 19:00:00,2023-01-10 18:00:00,Urgent,Network,Engineering,System crash during deployment
+TCKT00259,2023-01-23 17:00:00,2023-01-24 04:00:00,Low,Network,Finance,System crash during deployment
+TCKT00260,2023-02-17 01:00:00,2023-02-19 05:00:00,High,Access Request,Support,Laptop not booting up
+TCKT00261,2023-01-04 00:00:00,2023-01-04 21:00:00,Low,Software,Engineering,Need access to Jira
+TCKT00262,2023-03-02 18:00:00,2023-03-05 15:00:00,Medium,Software,HR,System crash during deployment
+TCKT00263,2023-02-05 02:00:00,2023-02-06 10:00:00,High,Bug Report,Finance,Cannot connect to VPN
+TCKT00264,2023-02-05 07:00:00,2023-02-06 19:00:00,High,Software,HR,System crash during deployment
+TCKT00265,2023-02-08 01:00:00,2023-02-08 07:00:00,Urgent,Software,HR,Bug found in internal app
+TCKT00266,2023-01-20 14:00:00,2023-01-21 01:00:00,Urgent,Software,IT,Forgot Windows password
+TCKT00267,2023-02-27 00:00:00,2023-03-01 12:00:00,Low,Bug Report,Support,Laptop not booting up
+TCKT00268,2023-03-10 09:00:00,2023-03-11 18:00:00,High,Network,IT,Laptop not booting up
+TCKT00269,2023-03-08 22:00:00,2023-03-09 17:00:00,Urgent,Software,HR,Cannot connect to VPN
+TCKT00270,2023-02-21 08:00:00,2023-02-21 11:00:00,Low,Access Request,IT,Bug found in internal app
+TCKT00271,2023-03-19 06:00:00,2023-03-21 15:00:00,High,Bug Report,Finance,Laptop not booting up
+TCKT00272,2023-01-14 15:00:00,2023-01-17 06:00:00,Medium,Software,Support,Outlook not sending emails
+TCKT00273,2023-01-11 04:00:00,2023-01-12 08:00:00,Low,Bug Report,Finance,Cannot connect to VPN
+TCKT00274,2023-01-21 14:00:00,2023-01-23 14:00:00,Low,Bug Report,Engineering,Cannot connect to VPN
+TCKT00275,2023-02-27 05:00:00,2023-02-27 10:00:00,Low,Network,Support,Forgot Windows password
+TCKT00276,2023-01-25 09:00:00,2023-01-27 13:00:00,Medium,Access Request,Finance,Requesting new mouse and keyboard
+TCKT00277,2023-03-16 19:00:00,2023-03-16 22:00:00,Medium,Hardware,HR,WiFi is unstable in the office
+TCKT00278,2023-03-15 04:00:00,2023-03-17 21:00:00,Medium,Bug Report,Support,Laptop running slow
+TCKT00279,2023-01-18 02:00:00,2023-01-19 19:00:00,Low,Network,Finance,Forgot Windows password
+TCKT00280,2023-03-17 13:00:00,2023-03-18 07:00:00,High,Access Request,IT,System crash during deployment
+TCKT00281,2023-02-28 22:00:00,2023-03-03 00:00:00,High,Network,Finance,Bug found in internal app
+TCKT00282,2023-02-28 06:00:00,2023-03-01 09:00:00,Low,Bug Report,Support,Forgot Windows password
+TCKT00283,2023-01-26 04:00:00,2023-01-28 07:00:00,Urgent,Hardware,Engineering,Forgot Windows password
+TCKT00284,2023-03-17 04:00:00,2023-03-19 10:00:00,High,Bug Report,Support,Laptop running slow
+TCKT00285,2023-03-12 05:00:00,2023-03-14 15:00:00,Urgent,Hardware,Finance,Outlook not sending emails
+TCKT00286,2023-01-27 06:00:00,2023-01-27 22:00:00,High,Software,Support,Outlook not sending emails
+TCKT00287,2023-02-26 22:00:00,2023-02-28 23:00:00,High,Network,HR,Requesting new mouse and keyboard
+TCKT00288,2023-02-11 14:00:00,2023-02-12 20:00:00,Urgent,Network,HR,WiFi is unstable in the office
+TCKT00289,2023-02-07 23:00:00,2023-02-09 07:00:00,Medium,Hardware,Support,Outlook not sending emails
+TCKT00290,2023-01-13 01:00:00,2023-01-13 16:00:00,Medium,Access Request,Finance,Laptop running slow
+TCKT00291,2023-01-01 07:00:00,2023-01-01 15:00:00,Medium,Software,HR,Laptop not booting up
+TCKT00292,2023-01-04 05:00:00,2023-01-04 22:00:00,Urgent,Software,Engineering,Laptop not booting up
+TCKT00293,2023-01-27 01:00:00,2023-01-27 15:00:00,Urgent,Access Request,Finance,Outlook not sending emails
+TCKT00294,2023-03-11 15:00:00,2023-03-11 18:00:00,Medium,Network,HR,Laptop running slow
+TCKT00295,2023-02-14 03:00:00,2023-02-15 17:00:00,Urgent,Network,IT,WiFi is unstable in the office
+TCKT00296,2023-01-16 03:00:00,2023-01-16 07:00:00,High,Access Request,Engineering,Laptop not booting up
+TCKT00297,2023-03-22 04:00:00,2023-03-23 09:00:00,Low,Network,Finance,System crash during deployment
+TCKT00298,2023-02-26 04:00:00,2023-02-26 13:00:00,Urgent,Network,Support,Laptop running slow
+TCKT00299,2023-01-02 08:00:00,2023-01-02 22:00:00,High,Network,Finance,Laptop running slow
+TCKT00300,2023-02-21 03:00:00,2023-02-21 23:00:00,High,Software,Engineering,Requesting new mouse and keyboard
+TCKT00301,2023-01-11 15:00:00,2023-01-13 07:00:00,Urgent,Software,Finance,Need access to Jira
+TCKT00302,2023-03-03 16:00:00,2023-03-05 01:00:00,Medium,Network,HR,Forgot Windows password
+TCKT00303,2023-01-11 05:00:00,2023-01-13 05:00:00,Urgent,Access Request,HR,Bug found in internal app
+TCKT00304,2023-03-23 09:00:00,2023-03-23 16:00:00,Low,Network,Engineering,Laptop not booting up
+TCKT00305,2023-01-14 05:00:00,2023-01-16 02:00:00,Urgent,Access Request,Engineering,WiFi is unstable in the office
+TCKT00306,2023-01-26 10:00:00,2023-01-27 13:00:00,High,Hardware,Engineering,Need access to Jira
+TCKT00307,2023-02-24 06:00:00,2023-02-24 17:00:00,Urgent,Network,IT,Requesting new mouse and keyboard
+TCKT00308,2023-02-13 15:00:00,2023-02-15 16:00:00,Low,Access Request,HR,Requesting new mouse and keyboard
+TCKT00309,2023-01-24 14:00:00,2023-01-26 02:00:00,Medium,Bug Report,Finance,Cannot connect to VPN
+TCKT00310,2023-01-14 07:00:00,2023-01-16 10:00:00,High,Bug Report,IT,Laptop not booting up
+TCKT00311,2023-01-27 03:00:00,2023-01-28 01:00:00,Urgent,Hardware,Support,Laptop running slow
+TCKT00312,2023-02-27 19:00:00,2023-02-28 18:00:00,High,Network,IT,Laptop running slow
+TCKT00313,2023-03-03 23:00:00,2023-03-06 20:00:00,Low,Network,Finance,Laptop running slow
+TCKT00314,2023-03-23 15:00:00,2023-03-26 11:00:00,Low,Network,Support,Outlook not sending emails
+TCKT00315,2023-03-22 00:00:00,2023-03-23 08:00:00,High,Network,Support,Forgot Windows password
+TCKT00316,2023-02-01 04:00:00,2023-02-03 02:00:00,High,Software,Support,Bug found in internal app
+TCKT00317,2023-02-28 10:00:00,2023-03-01 17:00:00,Urgent,Hardware,IT,Bug found in internal app
+TCKT00318,2023-03-13 17:00:00,2023-03-14 20:00:00,Low,Hardware,IT,WiFi is unstable in the office
+TCKT00319,2023-01-21 08:00:00,2023-01-22 11:00:00,Low,Network,HR,WiFi is unstable in the office
+TCKT00320,2023-02-07 23:00:00,2023-02-08 21:00:00,Medium,Bug Report,HR,Laptop running slow
+TCKT00321,2023-03-09 10:00:00,2023-03-11 07:00:00,High,Software,Engineering,Forgot Windows password
+TCKT00322,2023-01-31 18:00:00,2023-02-02 21:00:00,High,Bug Report,HR,Requesting new mouse and keyboard
+TCKT00323,2023-03-13 18:00:00,2023-03-15 03:00:00,High,Network,Finance,Laptop not booting up
+TCKT00324,2023-01-02 16:00:00,2023-01-04 04:00:00,High,Network,Finance,System crash during deployment
+TCKT00325,2023-01-18 14:00:00,2023-01-18 15:00:00,Medium,Network,IT,Forgot Windows password
+TCKT00326,2023-02-22 06:00:00,2023-02-24 16:00:00,Medium,Network,HR,Laptop not booting up
+TCKT00327,2023-01-12 00:00:00,2023-01-13 15:00:00,Urgent,Access Request,Engineering,Forgot Windows password
+TCKT00328,2023-01-15 04:00:00,2023-01-18 02:00:00,High,Hardware,Engineering,Laptop running slow
+TCKT00329,2023-02-01 13:00:00,2023-02-02 06:00:00,High,Network,Engineering,Requesting new mouse and keyboard
+TCKT00330,2023-02-21 19:00:00,2023-02-22 14:00:00,Urgent,Access Request,Support,System crash during deployment
+TCKT00331,2023-02-03 08:00:00,2023-02-03 17:00:00,High,Bug Report,Engineering,WiFi is unstable in the office
+TCKT00332,2023-01-10 20:00:00,2023-01-13 00:00:00,Low,Hardware,Finance,Forgot Windows password
+TCKT00333,2023-01-04 11:00:00,2023-01-07 05:00:00,Urgent,Hardware,HR,WiFi is unstable in the office
+TCKT00334,2023-01-16 21:00:00,2023-01-18 22:00:00,Urgent,Access Request,IT,Need access to Jira
+TCKT00335,2023-01-05 15:00:00,2023-01-06 02:00:00,High,Access Request,Engineering,Requesting new mouse and keyboard
+TCKT00336,2023-03-08 17:00:00,2023-03-09 06:00:00,High,Hardware,Engineering,Laptop running slow
+TCKT00337,2023-02-28 19:00:00,2023-03-01 12:00:00,Medium,Bug Report,Finance,Laptop running slow
+TCKT00338,2023-01-23 08:00:00,2023-01-25 06:00:00,Low,Hardware,Finance,WiFi is unstable in the office
+TCKT00339,2023-03-15 22:00:00,2023-03-16 03:00:00,Medium,Network,IT,Outlook not sending emails
+TCKT00340,2023-02-02 15:00:00,2023-02-03 21:00:00,Medium,Software,IT,Need access to Jira
+TCKT00341,2023-01-23 15:00:00,2023-01-24 07:00:00,Urgent,Network,HR,Cannot connect to VPN
+TCKT00342,2023-01-02 09:00:00,2023-01-03 22:00:00,Urgent,Network,HR,System crash during deployment
+TCKT00343,2023-01-19 21:00:00,2023-01-22 08:00:00,Low,Bug Report,IT,Laptop running slow
+TCKT00344,2023-01-30 17:00:00,2023-02-02 15:00:00,Medium,Hardware,Engineering,Need access to Jira
+TCKT00345,2023-03-09 12:00:00,2023-03-09 18:00:00,Medium,Network,Finance,Requesting new mouse and keyboard
+TCKT00346,2023-03-24 17:00:00,2023-03-25 01:00:00,Medium,Network,HR,Forgot Windows password
+TCKT00347,2023-02-02 18:00:00,2023-02-04 11:00:00,High,Bug Report,IT,Requesting new mouse and keyboard
+TCKT00348,2023-02-22 13:00:00,2023-02-24 00:00:00,Urgent,Software,Engineering,System crash during deployment
+TCKT00349,2023-02-18 00:00:00,2023-02-19 10:00:00,High,Software,IT,System crash during deployment
+TCKT00350,2023-01-03 01:00:00,2023-01-03 11:00:00,Urgent,Access Request,IT,WiFi is unstable in the office
+TCKT00351,2023-01-31 09:00:00,2023-01-31 19:00:00,Urgent,Hardware,HR,WiFi is unstable in the office
+TCKT00352,2023-02-24 19:00:00,2023-02-26 12:00:00,High,Access Request,Engineering,Requesting new mouse and keyboard
+TCKT00353,2023-02-12 03:00:00,2023-02-14 11:00:00,High,Software,Support,Cannot connect to VPN
+TCKT00354,2023-02-09 04:00:00,2023-02-11 23:00:00,Low,Hardware,Engineering,WiFi is unstable in the office
+TCKT00355,2023-01-17 09:00:00,2023-01-19 06:00:00,Low,Access Request,IT,Cannot connect to VPN
+TCKT00356,2023-03-23 11:00:00,2023-03-23 20:00:00,High,Bug Report,Support,Cannot connect to VPN
+TCKT00357,2023-03-20 16:00:00,2023-03-22 06:00:00,Medium,Hardware,HR,Outlook not sending emails
+TCKT00358,2023-01-29 21:00:00,2023-01-31 18:00:00,High,Bug Report,Support,Laptop not booting up
+TCKT00359,2023-02-28 04:00:00,2023-03-02 01:00:00,Urgent,Software,Engineering,Need access to Jira
+TCKT00360,2023-01-09 19:00:00,2023-01-12 03:00:00,Medium,Network,IT,WiFi is unstable in the office
+TCKT00361,2023-01-27 18:00:00,2023-01-28 20:00:00,Urgent,Network,Engineering,Requesting new mouse and keyboard
+TCKT00362,2023-01-18 00:00:00,2023-01-19 00:00:00,Low,Bug Report,Finance,Bug found in internal app
+TCKT00363,2023-02-03 17:00:00,2023-02-04 23:00:00,Urgent,Bug Report,Finance,Laptop not booting up
+TCKT00364,2023-02-27 07:00:00,2023-03-02 02:00:00,High,Software,IT,Laptop not booting up
+TCKT00365,2023-03-19 00:00:00,2023-03-21 13:00:00,High,Hardware,HR,Cannot connect to VPN
+TCKT00366,2023-03-16 05:00:00,2023-03-17 22:00:00,High,Access Request,Finance,Laptop not booting up
+TCKT00367,2023-01-14 09:00:00,2023-01-16 21:00:00,High,Software,Support,Outlook not sending emails
+TCKT00368,2023-02-21 13:00:00,2023-02-24 12:00:00,Urgent,Bug Report,IT,Need access to Jira
+TCKT00369,2023-01-06 08:00:00,2023-01-07 08:00:00,Low,Network,Finance,Need access to Jira
+TCKT00370,2023-01-12 03:00:00,2023-01-12 06:00:00,Low,Network,Finance,WiFi is unstable in the office
+TCKT00371,2023-02-28 21:00:00,2023-03-01 14:00:00,Urgent,Bug Report,Engineering,Outlook not sending emails
+TCKT00372,2023-01-26 15:00:00,2023-01-29 06:00:00,High,Bug Report,Engineering,Outlook not sending emails
+TCKT00373,2023-02-15 19:00:00,2023-02-18 13:00:00,Urgent,Access Request,Engineering,WiFi is unstable in the office
+TCKT00374,2023-01-22 15:00:00,2023-01-23 18:00:00,High,Software,HR,System crash during deployment
+TCKT00375,2023-02-28 14:00:00,2023-03-03 00:00:00,High,Hardware,Support,WiFi is unstable in the office
+TCKT00376,2023-02-10 14:00:00,2023-02-12 03:00:00,High,Network,Finance,Forgot Windows password
+TCKT00377,2023-03-18 03:00:00,2023-03-19 23:00:00,Low,Bug Report,Engineering,Laptop running slow
+TCKT00378,2023-02-14 11:00:00,2023-02-17 02:00:00,High,Network,Support,Requesting new mouse and keyboard
+TCKT00379,2023-02-27 20:00:00,2023-02-28 05:00:00,Medium,Network,Finance,WiFi is unstable in the office
+TCKT00380,2023-02-11 18:00:00,2023-02-12 14:00:00,Medium,Access Request,Finance,Laptop running slow
+TCKT00381,2023-01-22 23:00:00,2023-01-24 15:00:00,Low,Hardware,Support,System crash during deployment
+TCKT00382,2023-01-30 00:00:00,2023-01-31 05:00:00,Low,Bug Report,Engineering,Need access to Jira
+TCKT00383,2023-02-22 14:00:00,2023-02-25 03:00:00,High,Bug Report,HR,Need access to Jira
+TCKT00384,2023-03-02 13:00:00,2023-03-03 18:00:00,Urgent,Software,Finance,Forgot Windows password
+TCKT00385,2023-02-25 03:00:00,2023-02-26 02:00:00,Urgent,Bug Report,HR,Cannot connect to VPN
+TCKT00386,2023-01-12 14:00:00,2023-01-13 02:00:00,High,Bug Report,Support,Outlook not sending emails
+TCKT00387,2023-02-06 09:00:00,2023-02-06 17:00:00,High,Bug Report,Finance,Laptop running slow
+TCKT00388,2023-03-24 23:00:00,2023-03-25 03:00:00,Medium,Bug Report,Engineering,Cannot connect to VPN
+TCKT00389,2023-03-14 16:00:00,2023-03-17 02:00:00,Medium,Software,HR,System crash during deployment
+TCKT00390,2023-03-01 22:00:00,2023-03-04 22:00:00,Low,Bug Report,Finance,Requesting new mouse and keyboard
+TCKT00391,2023-03-21 09:00:00,2023-03-22 16:00:00,High,Software,Engineering,Laptop running slow
+TCKT00392,2023-01-29 23:00:00,2023-02-01 23:00:00,Medium,Network,IT,Bug found in internal app
+TCKT00393,2023-02-25 06:00:00,2023-02-25 10:00:00,Low,Hardware,IT,Cannot connect to VPN
+TCKT00394,2023-01-30 14:00:00,2023-02-01 19:00:00,High,Hardware,HR,Laptop running slow
+TCKT00395,2023-03-14 07:00:00,2023-03-16 01:00:00,Medium,Network,Engineering,Bug found in internal app
+TCKT00396,2023-01-14 11:00:00,2023-01-16 04:00:00,Low,Software,IT,Requesting new mouse and keyboard
+TCKT00397,2023-02-14 13:00:00,2023-02-17 13:00:00,High,Network,Finance,Cannot connect to VPN
+TCKT00398,2023-03-02 06:00:00,2023-03-04 17:00:00,High,Bug Report,HR,Cannot connect to VPN
+TCKT00399,2023-01-06 22:00:00,2023-01-07 20:00:00,High,Bug Report,HR,Need access to Jira
+TCKT00400,2023-02-15 07:00:00,2023-02-17 08:00:00,High,Software,IT,Forgot Windows password
+TCKT00401,2023-01-25 09:00:00,2023-01-27 21:00:00,Low,Network,IT,Requesting new mouse and keyboard
+TCKT00402,2023-01-07 15:00:00,2023-01-10 10:00:00,Medium,Software,Support,Need access to Jira
+TCKT00403,2023-03-13 17:00:00,2023-03-13 20:00:00,Medium,Software,IT,Cannot connect to VPN
+TCKT00404,2023-03-21 13:00:00,2023-03-22 19:00:00,High,Bug Report,Support,System crash during deployment
+TCKT00405,2023-02-15 06:00:00,2023-02-17 12:00:00,Low,Bug Report,Support,Bug found in internal app
+TCKT00406,2023-03-14 07:00:00,2023-03-14 09:00:00,High,Software,HR,Laptop not booting up
+TCKT00407,2023-02-24 11:00:00,2023-02-27 01:00:00,High,Access Request,Support,Bug found in internal app
+TCKT00408,2023-03-12 00:00:00,2023-03-14 15:00:00,Medium,Hardware,Finance,Requesting new mouse and keyboard
+TCKT00409,2023-02-23 00:00:00,2023-02-23 10:00:00,Urgent,Software,Finance,Cannot connect to VPN
+TCKT00410,2023-01-20 15:00:00,2023-01-21 21:00:00,Urgent,Software,IT,Forgot Windows password
+TCKT00411,2023-03-13 07:00:00,2023-03-14 14:00:00,Urgent,Software,Engineering,Outlook not sending emails
+TCKT00412,2023-02-26 19:00:00,2023-02-27 20:00:00,Urgent,Network,IT,System crash during deployment
+TCKT00413,2023-02-10 14:00:00,2023-02-10 15:00:00,Low,Network,IT,Bug found in internal app
+TCKT00414,2023-03-22 00:00:00,2023-03-23 16:00:00,Low,Network,HR,Forgot Windows password
+TCKT00415,2023-03-11 11:00:00,2023-03-12 06:00:00,Urgent,Access Request,Engineering,Laptop running slow
+TCKT00416,2023-01-23 00:00:00,2023-01-25 22:00:00,Low,Access Request,HR,System crash during deployment
+TCKT00417,2023-03-09 09:00:00,2023-03-10 18:00:00,Medium,Network,IT,Cannot connect to VPN
+TCKT00418,2023-01-18 08:00:00,2023-01-18 23:00:00,Urgent,Access Request,Support,Cannot connect to VPN
+TCKT00419,2023-01-16 18:00:00,2023-01-18 21:00:00,Medium,Hardware,Finance,Outlook not sending emails
+TCKT00420,2023-03-14 15:00:00,2023-03-16 12:00:00,Urgent,Bug Report,Support,System crash during deployment
+TCKT00421,2023-02-21 19:00:00,2023-02-22 09:00:00,High,Hardware,HR,Need access to Jira
+TCKT00422,2023-02-25 18:00:00,2023-02-26 11:00:00,Urgent,Software,IT,Requesting new mouse and keyboard
+TCKT00423,2023-02-21 06:00:00,2023-02-23 08:00:00,High,Access Request,IT,Need access to Jira
+TCKT00424,2023-01-15 16:00:00,2023-01-16 00:00:00,Urgent,Bug Report,HR,Cannot connect to VPN
+TCKT00425,2023-03-08 23:00:00,2023-03-11 22:00:00,Medium,Bug Report,Finance,Laptop running slow
+TCKT00426,2023-01-02 06:00:00,2023-01-02 18:00:00,Low,Software,IT,Forgot Windows password
+TCKT00427,2023-01-13 17:00:00,2023-01-14 16:00:00,High,Network,Finance,Forgot Windows password
+TCKT00428,2023-02-28 19:00:00,2023-03-03 19:00:00,Medium,Access Request,Engineering,Bug found in internal app
+TCKT00429,2023-03-21 09:00:00,2023-03-22 18:00:00,Urgent,Software,Support,WiFi is unstable in the office
+TCKT00430,2023-01-23 00:00:00,2023-01-24 10:00:00,Low,Bug Report,IT,Laptop not booting up
+TCKT00431,2023-03-21 21:00:00,2023-03-22 09:00:00,Low,Access Request,HR,WiFi is unstable in the office
+TCKT00432,2023-02-24 06:00:00,2023-02-26 12:00:00,Low,Bug Report,IT,Forgot Windows password
+TCKT00433,2023-01-29 02:00:00,2023-01-30 02:00:00,Medium,Bug Report,Support,Requesting new mouse and keyboard
+TCKT00434,2023-01-11 14:00:00,2023-01-12 07:00:00,Low,Access Request,Support,WiFi is unstable in the office
+TCKT00435,2023-01-11 00:00:00,2023-01-11 20:00:00,Urgent,Software,HR,WiFi is unstable in the office
+TCKT00436,2023-02-07 20:00:00,2023-02-08 06:00:00,Urgent,Network,Finance,Forgot Windows password
+TCKT00437,2023-02-17 20:00:00,2023-02-18 03:00:00,Medium,Network,Finance,Laptop not booting up
+TCKT00438,2023-03-03 08:00:00,2023-03-05 20:00:00,Low,Network,HR,WiFi is unstable in the office
+TCKT00439,2023-02-25 21:00:00,2023-02-28 15:00:00,Low,Bug Report,Support,System crash during deployment
+TCKT00440,2023-01-21 20:00:00,2023-01-23 04:00:00,Medium,Software,Finance,Need access to Jira
+TCKT00441,2023-01-16 07:00:00,2023-01-18 17:00:00,Low,Software,Support,Laptop running slow
+TCKT00442,2023-01-04 10:00:00,2023-01-06 06:00:00,Low,Bug Report,Engineering,Cannot connect to VPN
+TCKT00443,2023-01-04 14:00:00,2023-01-05 12:00:00,Low,Software,Finance,Forgot Windows password
+TCKT00444,2023-02-23 04:00:00,2023-02-24 14:00:00,Medium,Access Request,IT,Laptop running slow
+TCKT00445,2023-02-17 05:00:00,2023-02-17 06:00:00,Medium,Software,Finance,System crash during deployment
+TCKT00446,2023-03-09 11:00:00,2023-03-11 05:00:00,Low,Software,IT,Cannot connect to VPN
+TCKT00447,2023-03-18 00:00:00,2023-03-19 19:00:00,Medium,Access Request,HR,Laptop not booting up
+TCKT00448,2023-03-17 00:00:00,2023-03-18 23:00:00,Urgent,Software,Support,Laptop not booting up
+TCKT00449,2023-02-14 09:00:00,2023-02-17 02:00:00,High,Access Request,HR,Need access to Jira
+TCKT00450,2023-01-25 11:00:00,2023-01-27 02:00:00,High,Software,IT,Bug found in internal app
+TCKT00451,2023-01-06 12:00:00,2023-01-07 05:00:00,Urgent,Software,Support,System crash during deployment
+TCKT00452,2023-03-12 06:00:00,2023-03-12 16:00:00,Low,Bug Report,IT,Need access to Jira
+TCKT00453,2023-02-11 20:00:00,2023-02-13 06:00:00,High,Bug Report,Finance,WiFi is unstable in the office
+TCKT00454,2023-01-13 00:00:00,2023-01-13 09:00:00,Medium,Hardware,HR,Cannot connect to VPN
+TCKT00455,2023-02-17 21:00:00,2023-02-19 17:00:00,Low,Bug Report,Finance,Outlook not sending emails
+TCKT00456,2023-01-21 11:00:00,2023-01-24 05:00:00,Low,Network,HR,Requesting new mouse and keyboard
+TCKT00457,2023-01-30 06:00:00,2023-01-30 23:00:00,Low,Access Request,Finance,Cannot connect to VPN
+TCKT00458,2023-03-07 21:00:00,2023-03-10 09:00:00,Medium,Network,HR,Cannot connect to VPN
+TCKT00459,2023-03-17 18:00:00,2023-03-19 15:00:00,Low,Access Request,Support,Need access to Jira
+TCKT00460,2023-01-07 12:00:00,2023-01-08 20:00:00,Medium,Hardware,IT,Outlook not sending emails
+TCKT00461,2023-01-02 07:00:00,2023-01-02 10:00:00,Urgent,Software,IT,Bug found in internal app
+TCKT00462,2023-01-21 12:00:00,2023-01-24 01:00:00,Low,Access Request,Finance,Requesting new mouse and keyboard
+TCKT00463,2023-03-12 21:00:00,2023-03-14 02:00:00,Urgent,Software,IT,Bug found in internal app
+TCKT00464,2023-03-04 05:00:00,2023-03-07 05:00:00,High,Software,Engineering,Requesting new mouse and keyboard
+TCKT00465,2023-01-03 18:00:00,2023-01-05 02:00:00,Low,Access Request,Support,Cannot connect to VPN
+TCKT00466,2023-02-04 13:00:00,2023-02-06 02:00:00,Urgent,Bug Report,Finance,Laptop not booting up
+TCKT00467,2023-01-27 06:00:00,2023-01-28 14:00:00,High,Hardware,Engineering,Forgot Windows password
+TCKT00468,2023-03-04 19:00:00,2023-03-07 07:00:00,Medium,Network,HR,Bug found in internal app
+TCKT00469,2023-03-10 03:00:00,2023-03-11 09:00:00,High,Network,Engineering,Forgot Windows password
+TCKT00470,2023-03-04 09:00:00,2023-03-07 04:00:00,Medium,Network,IT,Cannot connect to VPN
+TCKT00471,2023-01-02 00:00:00,2023-01-03 14:00:00,Low,Hardware,Support,Bug found in internal app
+TCKT00472,2023-03-23 00:00:00,2023-03-25 06:00:00,Low,Hardware,IT,Forgot Windows password
+TCKT00473,2023-01-19 13:00:00,2023-01-19 15:00:00,Low,Hardware,HR,Laptop running slow
+TCKT00474,2023-03-13 10:00:00,2023-03-14 02:00:00,Low,Access Request,HR,Need access to Jira
+TCKT00475,2023-01-13 20:00:00,2023-01-14 22:00:00,Low,Bug Report,Finance,Cannot connect to VPN
+TCKT00476,2023-02-14 15:00:00,2023-02-15 15:00:00,Urgent,Bug Report,IT,Forgot Windows password
+TCKT00477,2023-02-06 12:00:00,2023-02-06 16:00:00,High,Access Request,IT,Laptop running slow
+TCKT00478,2023-03-16 17:00:00,2023-03-18 21:00:00,Medium,Bug Report,IT,Bug found in internal app
+TCKT00479,2023-01-03 12:00:00,2023-01-05 01:00:00,Low,Access Request,Support,Requesting new mouse and keyboard
+TCKT00480,2023-03-08 13:00:00,2023-03-10 12:00:00,High,Software,Finance,Need access to Jira
+TCKT00481,2023-01-25 19:00:00,2023-01-27 11:00:00,Medium,Software,HR,WiFi is unstable in the office
+TCKT00482,2023-02-23 16:00:00,2023-02-24 21:00:00,High,Access Request,HR,Laptop running slow
+TCKT00483,2023-02-21 14:00:00,2023-02-23 12:00:00,Medium,Software,Engineering,Forgot Windows password
+TCKT00484,2023-02-16 01:00:00,2023-02-19 01:00:00,Medium,Software,Finance,Need access to Jira
+TCKT00485,2023-02-06 06:00:00,2023-02-06 12:00:00,Medium,Bug Report,HR,Forgot Windows password
+TCKT00486,2023-01-01 23:00:00,2023-01-03 03:00:00,High,Software,HR,Outlook not sending emails
+TCKT00487,2023-02-08 05:00:00,2023-02-10 04:00:00,Low,Network,Engineering,Need access to Jira
+TCKT00488,2023-02-25 15:00:00,2023-02-26 01:00:00,Medium,Network,Support,Forgot Windows password
+TCKT00489,2023-01-31 13:00:00,2023-02-01 01:00:00,Medium,Bug Report,HR,Bug found in internal app
+TCKT00490,2023-02-19 14:00:00,2023-02-21 00:00:00,Medium,Network,IT,Need access to Jira
+TCKT00491,2023-02-11 15:00:00,2023-02-12 00:00:00,Medium,Access Request,Finance,Need access to Jira
+TCKT00492,2023-01-24 05:00:00,2023-01-25 05:00:00,Urgent,Bug Report,HR,Cannot connect to VPN
+TCKT00493,2023-01-31 18:00:00,2023-02-02 01:00:00,Urgent,Software,Support,Requesting new mouse and keyboard
+TCKT00494,2023-01-24 15:00:00,2023-01-25 19:00:00,High,Network,Support,Bug found in internal app
+TCKT00495,2023-02-25 18:00:00,2023-02-28 02:00:00,High,Access Request,IT,Laptop not booting up
+TCKT00496,2023-01-25 11:00:00,2023-01-27 02:00:00,Low,Software,Finance,Cannot connect to VPN
+TCKT00497,2023-02-12 23:00:00,2023-02-13 12:00:00,Urgent,Bug Report,Engineering,Forgot Windows password
+TCKT00498,2023-01-05 23:00:00,2023-01-08 18:00:00,Low,Hardware,IT,Outlook not sending emails
+TCKT00499,2023-02-02 01:00:00,2023-02-03 07:00:00,High,Bug Report,HR,Requesting new mouse and keyboard
+TCKT00500,2023-03-19 05:00:00,2023-03-20 19:00:00,High,Access Request,Finance,Requesting new mouse and keyboard
