@@ -84,7 +84,7 @@ ticket-resolution-predictor/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ticket-resolution-predictor.git
+git clone https://github.com/samruddhi-08/ticket-resolution-predictor.git
 cd ticket-resolution-predictor
 ```
 
